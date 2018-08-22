@@ -1,6 +1,7 @@
 <?php
-ini_set('display_errors',1);
-error_reporting(E_ALL);
+//Error reporting is commented
+//ini_set('display_errors',1);
+//error_reporting(E_ALL);
 include_once('settings.php');
 
 
