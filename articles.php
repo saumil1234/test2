@@ -8,7 +8,8 @@ if(isset($_GET['view'])){
 else{
 	$view = 'Aboutus';
 }
-
+// Adding a comment here.
+// Adding second comment here.
 if(isset($_SESSION['Authorized_token'])){
 	$Authorized_Token = $_SESSION['Authorized_token'];
 }else{
